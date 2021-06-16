@@ -12,11 +12,17 @@ https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86
 
 ## 授業
 こちらのリンクからYoutubeの授業を視聴してください。
-https://www.youtube.com/watch?v=bjh8VGSLfQ4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=12
+1. 変数
+<br>
+https://www.youtube.com/watch?v=x0kSA56WxW4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=7
+2. データ型
+<br>
+https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
 <br>
 実行環境は以下をご利用ください。
 <br>
 https://paiza.io/ja
+
 ## 課題の注意点
 - 制限時間は40分間です。
 - 1問解けたらファイルにそのコードを保存してください。
