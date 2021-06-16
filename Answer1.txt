@@ -11,7 +11,7 @@ class Sample3
         System.out.println("あなたは何歳ですか");
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         
-        String str = br.parseInt(str);
+        String str = br.readLine(br);
         System.out.println("あなたは"+ num + "歳です");
     }
 }
@@ -27,9 +27,29 @@ class Sample3
      System.out.println("円周率の値はいくつですか？");
      BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
      
-     String str = br.parseInt(str);
+     String str = br.readLine(br);
      
      double pi = Double.parseDouble(str);
      System.out.print("円周率"+ pi +"です");
     }
+}
+
+~~~
+
+5.
+import java.io.*;
+class SampleP5
+{
+     public static void main(String[] args) throws IOException
+    {
+    System.out.println("身長と体重を入力してください。");
+    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+    String str1 = br.readLine(br);
+    String str2 = br.readLine(br);
+    double num1 = Double.parseDouble(str1);
+    double num2 = Double.parseDouble(str2);
+    System.out.println("身長は" + num1+ "センチです。");
+    System.out.println("体重は" + num2+ "キロです。");
+    }
+    
 }
