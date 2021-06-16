@@ -24,10 +24,8 @@
 - https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
 
 3. 実行環境は以下をご利用ください。
+- Eclipse4.8 Photon
 - https://mergedoc.osdn.jp/ 
-<br>
-Eclipse4.8 Photon
-<br>
 - https://paiza.io/ja
 
 ## 課題の注意点
