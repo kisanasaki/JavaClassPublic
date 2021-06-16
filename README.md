@@ -13,15 +13,17 @@ https://www.16personalities.com/ja/%E6%80%A7%E6%A0%BC%E8%A8%BA%E6%96%AD%E3%83%86
 ## 授業
 こちらのリンクからYoutubeの授業を視聴してください。
 1. 変数
-<br>
-https://www.youtube.com/watch?v=x0kSA56WxW4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=7
+
+
+- https://www.youtube.com/watch?v=x0kSA56WxW4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=7
 2. データ型
-<br>
-https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
-<br>
-実行環境は以下をご利用ください。
-<br>
-https://paiza.io/ja
+
+
+- https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
+
+3. 実行環境は以下をご利用ください。
+
+- https://paiza.io/ja
 
 ## 課題の注意点
 - 制限時間は40分間です。
@@ -39,6 +41,7 @@ https://paiza.io/ja
  -  char型のサイズは2バイトである。
 
 2. 次のコードはどこが間違っていますか？誤りがあれば、指摘してください。
+
 ~~~ Java
 class SampleP2
 {
@@ -54,6 +57,7 @@ class SampleP2
 ~~~
 
 3. 次のように画面に出力するコードを記述してください。
+
 ~~~
 あなたは何歳ですか？
 23
@@ -61,12 +65,14 @@ class SampleP2
 ~~~
 
 4. 次のように画面に出力するコードを記述してください。
+
 ~~~
 円周率の値はいくつですか?
 3.14
 円周率の値は3.14です。
 ~~~
 5. 次のように画面に出力するコードを記述してください。
+
 ~~~
 身長と体重を入力してください。
 165.2
