@@ -26,9 +26,14 @@
 2. データ型
 
 
-- https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
 
-3. 実行環境は以下をご利用ください。
+- https://www.youtube.com/watch?v=0qYudQIBWmo&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=8
+3. 繰り返し
+
+
+https://www.youtube.com/watch?v=bjh8VGSLfQ4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=12
+
+4. 実行環境は以下をご利用ください。
 - Eclipse4.8 Photon
 - https://mergedoc.osdn.jp/ 
 - https://paiza.io/ja
