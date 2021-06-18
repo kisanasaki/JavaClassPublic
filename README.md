@@ -31,7 +31,7 @@
 3. 繰り返し
 
 
-https://www.youtube.com/watch?v=bjh8VGSLfQ4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=12
+- https://www.youtube.com/watch?v=bjh8VGSLfQ4&list=PLavQwENTsEBUzlTRL9bXAuvlATefIP4RT&index=12
 
 4. 実行環境は以下をご利用ください。
 - Eclipse4.8 Photon
